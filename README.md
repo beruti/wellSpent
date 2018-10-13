@@ -1,4 +1,6 @@
 # wellSpent
-prototype chrome extension 
+prototype chrome extension website
 raising awareness of ethical issues
++ newsletter
+
 
